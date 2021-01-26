@@ -3,11 +3,19 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using Oribi.Persistence.Data;
 
 namespace Oribi.Services.Implementation
 {
     public class EmployeeService : IEmployeeService
     {
+        private readonly ApplicationDbContext context;
+
+        public EmployeeService(ApplicationDbContext _context)
+        {
+            context = _context;
+        }
+
         public Task CreateAsync(Employee newEmployee)
         {
             throw new NotImplementedException();
