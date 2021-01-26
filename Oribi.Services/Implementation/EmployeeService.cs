@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Oribi.Persistence.Data;
+using System.Linq;
+
 
 namespace Oribi.Services.Implementation
 {
@@ -16,25 +18,25 @@ namespace Oribi.Services.Implementation
             context = _context;
         }
 
-        public Task CreateAsync(Employee newEmployee)
+        public async Task CreateAsync(Employee newEmployee)
         {
-            throw new NotImplementedException();
+            await context.Employees.AddAsync(newEmployee);
+            await context.SaveChangesAsync();
         }
 
-        public Task DeleteAsync(int employeeId)
+        public Employee GetById(int employeeId) =>
+            context.Employees.Where(e => e.Id == employeeId).FirstOrDefault();
+
+        public async Task DeleteAsync(int employeeId)
         {
-            throw new NotImplementedException();
+            var employee = GetById(employeeId);
+
+            context.Employees.Remove(employee);
+            await context.SaveChangesAsync();
         }
 
-        public IEnumerable<Employee> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Employee GetById(int employeeId)
-        {
-            throw new NotImplementedException();
-        }
+        public IEnumerable<Employee> GetAll() => context.Employees;
+       
 
         public decimal StudentLoanRepaymentAmount(int id, decimal totalAmount)
         {
