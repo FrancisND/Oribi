@@ -36,7 +36,7 @@ namespace Oribi.Services.Implementation
         }
 
         public IEnumerable<Employee> GetAll() => context.Employees;
-       
+        
 
         public decimal StudentLoanRepaymentAmount(int id, decimal totalAmount)
         {
@@ -48,14 +48,18 @@ namespace Oribi.Services.Implementation
             throw new NotImplementedException();
         }
 
-        public Task UpdateAsync(Employee employee)
+        public async Task  UpdateAsync(Employee employee)
         {
-            throw new NotImplementedException();
+            context.Update(employee);
+            await context.SaveChangesAsync();
         }
 
-        public Task UpdateAsync(int id)
+        public async Task UpdateAsync(int id)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+
+            context.Update(employee);
+            await context.SaveChangesAsync();
         }
     }
 }
