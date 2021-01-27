@@ -1,0 +1,35 @@
+[33mcommit 851027f8ef916d04d675fd7d2f6c55a91a9b220b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Tue Jan 26 23:19:14 2021 +0200
+
+    Added Updates methods
+
+[33mcommit 3e29c9625eb56ef6cb6cc996fc565628bd761b79[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Tue Jan 26 22:57:26 2021 +0200
+
+    Added Interface Implementations
+
+[33mcommit 3b5d09490eefcbe753c1603e6545c95b62da357d[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Mon Jan 25 17:45:41 2021 -0800
+
+    Added Service Constructor
+
+[33mcommit 439ae2a6c1e89bb186f417df426c3dca96c420d2[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Tue Jan 26 03:28:07 2021 +0200
+
+    Added Service Implementation
+
+[33mcommit cf8832de9c8490bf95a126fc9e99d0aa5c8aaef5[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Tue Jan 26 03:14:04 2021 +0200
+
+    Added Persistence and Services
+
+[33mcommit 50fdcd419f279c426d88db070f6a970a45a2e9b5[m
+Author: Francis Ndangi <francis.ndangi@datonomy.co.za>
+Date:   Sun Jan 24 22:27:52 2021 +0200
+
+    Initial Commit

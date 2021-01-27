@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.deps.json
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.dll
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.pdb
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.dll
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfo.cs
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CopyComplete
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.dll
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.pdb
