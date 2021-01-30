@@ -34,7 +34,7 @@ namespace Oribi.Models
         [DataType(DataType.Date), Display(Name = "Date of Birth")]
         public DateTime DOB { get; set; }
         [DataType(DataType.Date), Display(Name = "Date Joined")]
-        public DateTime DateJoinded { get; set; }
+        public DateTime DateJoinded { get; set; } = DateTime.Now;
         [Required(ErrorMessage ="Job Role is required"), StringLength(100)]
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]
