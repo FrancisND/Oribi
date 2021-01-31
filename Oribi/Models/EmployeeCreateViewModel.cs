@@ -35,6 +35,9 @@ namespace Oribi.Models
         public DateTime DOB { get; set; }
         [DataType(DataType.Date), Display(Name = "Date Joined")]
         public DateTime DateJoinded { get; set; } = DateTime.Now;
+        [Display(Name = "Phone number")]
+        public string Phone { get; set; }
+
         [Required(ErrorMessage ="Job Role is required"), StringLength(100)]
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]

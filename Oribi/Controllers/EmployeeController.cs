@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 using Oribi.Services;
 using Oribi.Models;
 using Oribi.Entity;
+using System.IO;
+using Microsoft.AspNetCore.Hosting;
+
+
 
 namespace Oribi.Controllers
 {
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService employeeService;
+        private readonly IWebHostEnvironment hostingEnvironment;
 
-        public EmployeeController(IEmployeeService _employeeService)
+
+        public EmployeeController(IEmployeeService _employeeService, IWebHostEnvironment _hostingEnvironment)
         {
             employeeService = _employeeService;
+            hostingEnvironment = _hostingEnvironment;
         }
 
         public IActionResult Index()
@@ -43,7 +50,8 @@ namespace Oribi.Controllers
         }
 
         [HttpPost] // Send data to the server in order to create/obtain a resource
-        public IActionResult Create(EmployeeCreateViewModel model)
+        [ValidateAntiForgeryToken]      // Prevent Cross-site Request Forgery Attacks
+        public async Task<IActionResult> Create(EmployeeCreateViewModel model)
         {
             if(ModelState.IsValid)
             {
@@ -52,6 +60,7 @@ namespace Oribi.Controllers
                     Id = model.Id,
                     EmployeeNo = model.EmployeeNo,
                     FirstName = model.FirstName,
+                    MiddleName = model.MiddleName,
                     Surname = model.Surname,
                     FullName = model.FullName,
                     Gender = model.Gender,
@@ -64,11 +73,25 @@ namespace Oribi.Controllers
                     UnionMembers = model.UnionMembers,
                     Address = model.Address,
                     City = model.City,
-
-
-
+                    Phone = model.Phone,
+                    PostalCode = model.PostalCode,
                 };
+
+                if(model.ImageURL != null && model.ImageURL.Length > 0)
+                {
+                    var uploadDir = @"images/employee";
+                    var fileName = Path.GetFileNameWithoutExtension(model.ImageURL.FileName);
+                    var fileExtension = Path.GetExtension(model.ImageURL.FileName);
+                    var webRootPath = hostingEnvironment.WebRootPath;
+                    fileName = DateTime.Now.ToString("yyymmssfff") + fileName + fileExtension;      // override the first 'var fileName'
+                    var path = Path.Combine(webRootPath, uploadDir, fileName);
+                    await model.ImageURL.CopyToAsync(new FileStream(path, FileMode.Create));
+                    employee.ImageURL = "/" + uploadDir + "/" + fileName;
+                }
+                await employeeService.CreateAsync(employee);
+                return RedirectToAction(nameof(Index));
             }
+            return View();
         }
     }
 }

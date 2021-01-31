@@ -23,6 +23,7 @@ namespace Oribi.Entity
         public string ImageURL { get; set; }
         public DateTime DOB { get; set; }
         public DateTime DateJoinded { get; set; }
+        public string Phone { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
         [Required, MaxLength(50)]
