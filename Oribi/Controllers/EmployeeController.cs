@@ -93,5 +93,37 @@ namespace Oribi.Controllers
             }
             return View();
         }
+
+        public IActionResult Edit(int id)
+        {
+            var employee = employeeService.GetById(id);
+            if(employee == null)
+            {
+                return NotFound();
+            }
+
+            var model = new EmployeeEditViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FirstName = employee.FirstName,
+                MiddleName = employee.MiddleName,
+                Surname = employee.Surname,
+                Gender = employee.Gender,
+                Email = employee.Email,
+                DOB = employee.DOB,
+                DateJoinded = employee.DateJoinded,
+                InsuranceNo = employee.InsuranceNo,
+                PaymentMethods = employee.PaymentMethods,
+                StudentLoans = employee.StudentLoans,
+                UnionMembers = employee.UnionMembers,
+                Address = employee.Address,
+                City = employee.City,
+                Phone = employee.Phone,
+                PostalCode = employee.PostalCode,
+            };
+
+            return View();
+        }
     }
 }

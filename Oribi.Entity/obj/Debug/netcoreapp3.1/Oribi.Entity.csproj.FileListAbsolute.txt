@@ -6,3 +6,4 @@ C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\D
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.dll
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.pdb
+C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.csprojAssemblyReference.cache
