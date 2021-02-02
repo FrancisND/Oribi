@@ -94,6 +94,8 @@ namespace Oribi.Controllers
             return View();
         }
 
+
+        [HttpGet]
         public IActionResult Edit(int id)
         {
             var employee = employeeService.GetById(id);
@@ -123,7 +125,7 @@ namespace Oribi.Controllers
                 PostalCode = employee.PostalCode,
             };
 
-            return View();
+            return View(model);
         }
     }
 }
