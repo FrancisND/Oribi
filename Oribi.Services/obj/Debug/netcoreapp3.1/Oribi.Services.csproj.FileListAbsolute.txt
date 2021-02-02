@@ -12,3 +12,17 @@ C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CopyComplete
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.dll
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.pdb
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.deps.json
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.dll
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.pdb
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.dll
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csprojAssemblyReference.cache
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfoInputs.cache
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfo.cs
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CoreCompileInputs.cache
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CopyComplete
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.dll
+E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.pdb

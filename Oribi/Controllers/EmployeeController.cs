@@ -130,7 +130,8 @@ namespace Oribi.Controllers
 
 
         [HttpPost]
-        public IActionResult Edit(EmployeeEditViewModel model)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(EmployeeEditViewModel model)
         {
             if(ModelState.IsValid)
             {
@@ -155,8 +156,20 @@ namespace Oribi.Controllers
                 employee.City = model.City;
                 employee.Phone = model.Phone;
                 employee.PostalCode = model.PostalCode;
+                if(model.ImageURL != null && model.ImageURL.Length > 0)
+                {
+                    var uploadDir = @"images/employee";
+                    var fileName = Path.GetFileNameWithoutExtension(model.ImageURL.FileName);
+                    var fileExtension = Path.GetExtension(model.ImageURL.FileName);
+                    var webRootPath = hostingEnvironment.WebRootPath;
+                    fileName = DateTime.Now.ToString("yyymmssfff") + fileName + fileExtension;      // override the first 'var fileName'
+                    var path = Path.Combine(webRootPath, uploadDir, fileName);
+                    await model.ImageURL.CopyToAsync(new FileStream(path, FileMode.Create));
+                    employee.ImageURL = "/" + uploadDir + "/" + fileName;
+                }
+                await employeeService.UpdateAsync(employee);
+                return RedirectToAction(nameof(Index));
             }
-
             return View();
         }
 
