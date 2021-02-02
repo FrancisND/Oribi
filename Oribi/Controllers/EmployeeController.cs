@@ -95,7 +95,7 @@ namespace Oribi.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet]       // You don't have to put it, as per default it's a HTTP GET
         public IActionResult Edit(int id)
         {
             var employee = employeeService.GetById(id);
@@ -127,5 +127,38 @@ namespace Oribi.Controllers
 
             return View(model);
         }
+
+
+        [HttpPost]
+        public IActionResult Edit(EmployeeEditViewModel model)
+        {
+            if(ModelState.IsValid)
+            {
+                var employee = employeeService.GetById(model.Id);
+                if(employee == null)
+                {
+                    return NotFound();
+                }
+                employee.EmployeeNo = model.EmployeeNo;
+                employee.FirstName = model.FirstName;
+                employee.MiddleName = model.MiddleName;
+                employee.Surname = model.Surname;
+                employee.Gender = model.Gender;
+                employee.Email = model.Email;
+                employee.DOB = model.DOB;
+                employee.DateJoinded = model.DateJoinded;
+                employee.InsuranceNo = model.InsuranceNo;
+                employee.PaymentMethods = model.PaymentMethods;
+                employee.StudentLoans = model.StudentLoans;
+                employee.UnionMembers = model.UnionMembers;
+                employee.Address = model.Address;
+                employee.City = model.City;
+                employee.Phone = model.Phone;
+                employee.PostalCode = model.PostalCode;
+            }
+
+            return View();
+        }
+
     }
 }
