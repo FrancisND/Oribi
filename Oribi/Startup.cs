@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Oribi.Persistence;
 using Oribi.Persistence.Data;
+using Oribi.Services;
+using Oribi.Services.Implementation;
 
 namespace Oribi
 {
@@ -31,6 +33,7 @@ namespace Oribi
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddScoped<IEmployeeService, EmployeeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
