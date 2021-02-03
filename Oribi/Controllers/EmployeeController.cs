@@ -42,14 +42,14 @@ namespace Oribi.Controllers
             return View(employees);
         }
 
-        [HttpGet]  // Render the view model to the View/UI
+        [HttpGet]       // Render the view model to the View/UI
         public IActionResult Create()
         {
             var model = new EmployeeCreateViewModel();
             return View(model);
         }
 
-        [HttpPost] // Send data to the server in order to create/obtain a resource
+        [HttpPost]      // Send data to the server in order to create/obtain a resource
         [ValidateAntiForgeryToken]      // Prevent Cross-site Request Forgery Attacks
         public async Task<IActionResult> Create(EmployeeCreateViewModel model)
         {
@@ -94,7 +94,6 @@ namespace Oribi.Controllers
             return View();
         }
 
-
         [HttpGet]       // You don't have to put it, as per default it's a HTTP GET
         public IActionResult Edit(int id)
         {
@@ -127,7 +126,6 @@ namespace Oribi.Controllers
 
             return View(model);
         }
-
 
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -171,6 +169,63 @@ namespace Oribi.Controllers
                 return RedirectToAction(nameof(Index));
             }
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            var employee = employeeService.GetById(id);
+            if(employee == null)
+            {
+                return NotFound();
+            }
+
+            EmployeeDetailViewModel model = new EmployeeDetailViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                DOB = employee.DOB,
+                DateJoinded = employee.DateJoinded,
+                Designation = employee.Designation,
+                InsuranceNo = employee.InsuranceNo,
+                Phone = employee.Phone,
+                Email = employee.Email,
+                PaymentMethods = employee.PaymentMethods,
+                StudentLoans = employee.StudentLoans,
+                UnionMembers = employee.UnionMembers,
+                Address = employee.Address,
+                City = employee.City,
+                ImageURL = employee.ImageURL,
+                PostalCode = employee.PostalCode
+            };
+            return View(model);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var employee = employeeService.GetById(id);
+            if(employee == null)
+            {
+                return NotFound();
+            }
+
+            var model = new EmployeeDeleteViewModel()
+            {
+                Id = employee.Id,
+                FullName = employee.FullName
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
+        {
+            await employeeService.DeleteAsync(model.Id);
+            return RedirectToAction(nameof(Index));
         }
 
     }
