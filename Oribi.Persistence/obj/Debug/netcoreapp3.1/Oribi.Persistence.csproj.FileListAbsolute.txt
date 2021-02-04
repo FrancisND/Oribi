@@ -13,6 +13,21 @@ C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.dll
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.pdb
 C:\Users\Dell\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.genruntimeconfig.cache
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.deps.json
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.json
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.dev.json
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.dll
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csprojAssemblyReference.cache
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.AssemblyInfoInputs.cache
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.AssemblyInfo.cs
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csproj.CoreCompileInputs.cache
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csproj.CopyComplete
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.dll
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+F:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.genruntimeconfig.cache
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.deps.json
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.json
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.dev.json

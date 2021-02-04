@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
       "projectName": "Oribi.Entity",
       "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
