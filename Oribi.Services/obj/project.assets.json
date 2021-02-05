@@ -5048,11 +5048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
       "projectName": "Oribi.Services",
-      "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5073,11 +5073,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-              "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+            "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
             },
-            "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
-              "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj"
+            "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj"
             }
           }
         }

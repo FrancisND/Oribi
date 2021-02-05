@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
       "projectName": "Oribi.Entity",
-      "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

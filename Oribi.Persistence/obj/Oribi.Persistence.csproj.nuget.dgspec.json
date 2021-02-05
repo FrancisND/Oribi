@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {}
   },
   "projects": {
-    "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
         "projectName": "Oribi.Entity",
-        "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
         "projectName": "Oribi.Persistence",
-        "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-                "projectPath": "E:\\Backup Datonomy\\Data\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
               }
             }
           }
