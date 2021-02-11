@@ -33,6 +33,7 @@ namespace Oribi
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddMvc().AddRazorRuntimeCompilation();
             services.AddScoped<IEmployeeService, EmployeeService>();
         }
 

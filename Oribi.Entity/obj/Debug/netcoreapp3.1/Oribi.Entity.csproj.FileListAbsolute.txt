@@ -25,3 +25,12 @@ E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.En
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.csproj.CoreCompileInputs.cache
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.dll
 E:\Backup Datonomy\Data\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.pdb
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\bin\Debug\netcoreapp3.1\Oribi.Entity.deps.json
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.dll
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Entity\obj\Debug\netcoreapp3.1\Oribi.Entity.pdb
