@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oribi", "Oribi\Oribi.csproj", "{7D532025-F336-40E0-BCB8-CAC10206FCD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oribi", "Oribi\Oribi.csproj", "{7D532025-F336-40E0-BCB8-CAC10206FCD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oribi.Services", "Oribi.Services\Oribi.Services.csproj", "{32C7E134-16AA-4AC3-926F-688E1BEDAE12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oribi.Services", "Oribi.Services\Oribi.Services.csproj", "{32C7E134-16AA-4AC3-926F-688E1BEDAE12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oribi.Persistence", "Oribi.Persistence\Oribi.Persistence.csproj", "{3495EE21-96F8-473E-A50C-9EB6E05A434C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oribi.Persistence", "Oribi.Persistence\Oribi.Persistence.csproj", "{3495EE21-96F8-473E-A50C-9EB6E05A434C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oribi.Entity", "Oribi.Entity\Oribi.Entity.csproj", "{5ECD3FFC-05F0-4EE5-B04D-ACE5B97BFB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oribi.Entity", "Oribi.Entity\Oribi.Entity.csproj", "{5ECD3FFC-05F0-4EE5-B04D-ACE5B97BFB38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
