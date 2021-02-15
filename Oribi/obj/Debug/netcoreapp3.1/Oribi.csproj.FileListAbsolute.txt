@@ -699,5 +699,14 @@ C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\bin\Debug\n
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index2.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout_ORIGINAL.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBFooter.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBMainContent.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBScripts.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBSideBar.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBStyles.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SBTopBar.cshtml.g.cs
+C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
