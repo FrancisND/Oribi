@@ -48,7 +48,7 @@ namespace Oribi.Services.Implementation
             throw new NotImplementedException();
         }
 
-        public async Task  UpdateAsync(Employee employee)
+        public async Task UpdateAsync(Employee employee)
         {
             context.Update(employee);
             await context.SaveChangesAsync();

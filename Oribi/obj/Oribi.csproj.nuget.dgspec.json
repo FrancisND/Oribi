@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj": {}
+    "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+    "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+        "projectUniqueName": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
         "projectName": "Oribi.Entity",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
+        "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
+        "outputPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
+    "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
+        "projectUniqueName": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
         "projectName": "Oribi.Persistence",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
+        "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\obj\\",
+        "outputPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+              "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+                "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
               }
             }
           }
@@ -136,18 +136,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
+    "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
+        "projectUniqueName": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
         "projectName": "Oribi.Services",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
+        "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\obj\\",
+        "outputPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -168,11 +168,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+              "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+                "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
               },
-              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj"
+              "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj": {
+                "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Persistence\\Oribi.Persistence.csproj"
               }
             }
           }
@@ -201,18 +201,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj": {
+    "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
+        "projectUniqueName": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
         "projectName": "Oribi",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
+        "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\obj\\",
+        "outputPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -233,11 +233,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+              "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+                "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
               },
-              "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj"
+              "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
+                "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj"
               }
             }
           }
@@ -305,7 +305,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fnBDZK/QBYRnt6Xu0phXWsMvT6Qflu+ddu4dxgFK/pMRnzahTEEirMN8ZZ0281uqYnZAnlaJo7jO95VYa7sOTw==",
+  "dgSpecHash": "Xqpxn2UuS8ugLo53KI5yjmp03gsvG/Q8v64dBhZsrIJ3xlFeNBmkeJkNLV9AiPYrt0Wb4gFnf8cCu3j7EaBZZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
+  "projectFilePath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

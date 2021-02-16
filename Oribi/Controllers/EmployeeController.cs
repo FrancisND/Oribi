@@ -27,21 +27,21 @@ namespace Oribi.Controllers
 
         public IActionResult Index()
         {
-            //var employees = employeeService.GetAll().Select(employee => new EmployeeIndexViewModel
-            //{
-            //    Id = employee.Id,
-            //    EmployeeNo = employee.EmployeeNo,
-            //    FullName = employee.FullName,
-            //    Gender = employee.Gender,
-            //    ImageURL = employee.ImageURL,
-            //    DateJoinded = employee.DateJoinded,
-            //    Designation = employee.Designation,
-            //    City = employee.City
-            //}).ToList();
+            var employees = employeeService.GetAll().Select(employee => new EmployeeIndexViewModel
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                ImageURL = employee.ImageURL,
+                DateJoinded = employee.DateJoinded,
+                Designation = employee.Designation,
+                City = employee.City
+            }).ToList();
 
-            //return View(employees);
+            return View(employees);
 
-            return View();
+            //return View();
         }
 
         public IActionResult Index2()
@@ -49,7 +49,12 @@ namespace Oribi.Controllers
             return View();
         }
 
-            [HttpGet]       // Render the view model to the View/UI
+        public IActionResult Index1()
+        {
+            return View();
+        }
+
+        [HttpGet]       // Render the view model to the View/UI
         public IActionResult Create()
         {
             var model = new EmployeeCreateViewModel();
