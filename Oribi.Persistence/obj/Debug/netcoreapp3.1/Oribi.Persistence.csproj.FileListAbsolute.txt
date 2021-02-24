@@ -58,3 +58,18 @@ C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.dll
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.pdb
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.genruntimeconfig.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.deps.json
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.json
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.runtimeconfig.dev.json
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csprojAssemblyReference.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.AssemblyInfoInputs.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.AssemblyInfo.cs
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csproj.CoreCompileInputs.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.csproj.CopyComplete
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Persistence\obj\Debug\netcoreapp3.1\Oribi.Persistence.genruntimeconfig.cache

@@ -54,3 +54,17 @@ C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\ob
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CopyComplete
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.dll
 C:\Users\ADMIN\Documents\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.deps.json
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Services.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Entity.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\bin\Debug\netcoreapp3.1\Oribi.Persistence.pdb
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csprojAssemblyReference.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfoInputs.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.AssemblyInfo.cs
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CoreCompileInputs.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.csproj.CopyComplete
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.dll
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi.Services\obj\Debug\netcoreapp3.1\Oribi.Services.pdb

@@ -9388,11 +9388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
+      "projectUniqueName": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
       "projectName": "Oribi",
-      "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
+      "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\Oribi.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\obj\\",
+      "outputPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9413,11 +9413,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
+            "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj": {
+              "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Entity\\Oribi.Entity.csproj"
             },
-            "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Documents\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj"
+            "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj": {
+              "projectPath": "E:\\DELL NEW\\Francis\\ICT\\Projetcs\\OribiHRPay\\Oribi\\Oribi.Services\\Oribi.Services.csproj"
             }
           }
         }
@@ -9485,7 +9485,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
