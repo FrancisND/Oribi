@@ -1126,8 +1126,6 @@ E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Oribi.RazorCoreGenerate.cache
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
-E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index1.cshtml.g.cs
-E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index2.cshtml.g.cs
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
@@ -1151,3 +1149,4 @@ E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Oribi.dll
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Oribi.pdb
 E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Oribi.genruntimeconfig.cache
+E:\DELL NEW\Francis\ICT\Projetcs\OribiHRPay\Oribi\Oribi\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs

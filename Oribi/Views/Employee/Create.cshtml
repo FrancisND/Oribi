@@ -1,0 +1,235 @@
+﻿@model EmployeeCreateViewModel
+
+
+@{ 
+    ViewData["Title"] = "Add Employee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>It's just a test inside New Index...</h1>
+
+<p>We are not the same people !!!</p>
+
+<head>
+    <!-- Custom fonts for this template -->
+    <link href="~/bootstrapTemplate/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    @*<link href="~/bootstrapTemplate/css/sb-admin-2.min.css" rel="stylesheet">*@
+
+    <link href="~/css/site.css" rel="stylesheet">
+
+    <!-- Custom styles for this page -->
+    <link href="~/bootstrapTemplate/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+</head>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+    <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.</p>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            @*<h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>*@
+            <a class="btn btn-xs btn-outline-success float-md-right rounded-pill" asp-action="Create"><i class="fa fa-user-plus" aria-hidden="true"></i>&nbsp;Add Employee</a>
+        </div>
+        <div class="card-body">
+            
+            <form method="post" enctype="multipart/form-data" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="EmployeeNo"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="EmployeeNo" class="form-control" placeholder="EMP000" />
+                        <span asp-validation-for="EmployeeNo" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="form-group col-md-2">
+                        <label asp-for="DateJoinded"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="DateJoinded" class="form-control" />
+                        <span asp-validation-for="DateJoinded" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="FirstName"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="FirstName" class="form-control" placeholder="Enter First Name" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <input asp-for="MiddleName" class="form-control" placeholder="Enter Middle Name" />
+                        <span asp-validation-for="MiddleName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-md-2">
+                        <label asp-for="Surname"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="Surname" class="form-control" placeholder="Enter Surname" />
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="Gender"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        @*<input asp-for="Gender" type="radio" value="Male" />
+                        <input asp-for="Gender" type="radio" value="Female" />*@
+
+                        <select class="form-control" asp-for="Gender">
+                            <option value="">Choose an option -- FIXED IT</option>
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                        <span asp-validation-for="Gender" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>            @*I use this as space*@
+                    <div class="form-group col-md-2">
+                        <label asp-for="DOB"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="DOB" class="form-control" />
+                        <span asp-validation-for="DOB" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="InsuranceNo"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="InsuranceNo" class="form-control" placeholder="Enter InsuranceNo" />
+                        <span asp-validation-for="InsuranceNo" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="form-group col-md-2">
+                        <label asp-for="Email"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="Phone"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="Phone" class="form-control" placeholder="Enter Phone number" />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>        @*I use this as space*@
+                    <div class="form-group col-md-2">
+                        <label asp-for="PaymentMethods"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <select asp-for="PaymentMethods" class="form-control" asp-items="Html.GetEnumSelectList<Oribi.Entity.PaymentMethod>()"></select>
+                        <span asp-validation-for="PaymentMethods" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="StudentLoans"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <select asp-for="StudentLoans" class="form-control" asp-items="Html.GetEnumSelectList<Oribi.Entity.StudentLoan>()"></select>
+                        <span asp-validation-for="StudentLoans" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>        @*I use this as space*@
+                    <div class="form-group col-md-2">
+                        <label asp-for="UnionMembers"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <select asp-for="UnionMembers" class="form-control" asp-items="Html.GetEnumSelectList<Oribi.Entity.UnionMember>()"></select>
+                        <span asp-validation-for="UnionMembers" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label asp-for="Designation"></label>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <input asp-for="Designation" class="form-control" placeholder="Enter Role" />
+                        <span asp-validation-for="Designation" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="form-group col-md-1">
+                        <label asp-for="ImageURL"></label>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <div class="btn btn-primary btn-icon-text">
+                            <i class="fas fa-cloud-upload-alt"></i>
+                            <input asp-for="ImageURL" type="file" value="Upload" />
+                            <span asp-validation-for="ImageURL" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Address"></label>
+                    <input asp-for="Address" class="form-control" placeholder="Enter Address" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="City"></label>
+                    <input asp-for="City" class="form-control" placeholder="Enter City/Town" />
+                    <span asp-validation-for="City" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PostalCode"></label>
+                    <input asp-for="PostalCode" class="form-control" placeholder="Enter PostalCode" />
+                    <span asp-validation-for="PostalCode" class="text-danger"></span>
+                </div><br /><br />
+
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-rounded btn-success float-left" asp-for="PostalCode"><i class="fas fa-plus-square" style="margin-right:0.7em"></i>Save</button>
+                    <a asp-action="Index" class="btn btn-rounded btn-primary float-right"><i class="fas fa-caret-square-left" style="margin-right:0.7em"></i>Cancel</a>
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+
+@*@section Scripts{ 
+    @{ await Html.RenderPartialAsync("") ;}
+}*@
+
+<!-- /.container-fluid -->
+<!-- End of Main Content -->
+<!-- Bootstrap core JavaScript-->
+@*<script src="~/bootstrapTemplate/vendor/jquery/jquery.min.js"></script>*@
+@*<script src="~/bootstrapTemplate/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>*@
+
+<!-- Core plugin JavaScript -->
+@*<script src="~/bootstrapTemplate/vendor/jquery-easing/jquery.easing.min.js"></script>*@
+
+<!-- Custom scripts for all pages -->
+@*<script src="~/bootstrapTemplate/js/sb-admin-2.min.js"></script>*@
+
+<!-- Page level plugins -->
+@*<script src="~/bootstrapTemplate/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/bootstrapTemplate/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+     Page level custom scripts
+    <script src="~/bootstrapTemplate/js/demo/datatables-demo.js"></script>*@
+

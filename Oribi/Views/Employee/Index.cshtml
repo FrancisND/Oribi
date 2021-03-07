@@ -41,7 +41,7 @@
         <div class="card-body">
             <div class="table-responsive">
               
-                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <table class="table table-bordered table-hover" id="dataTable" width="100%" cellspacing="0">
                     <thead>
                         <tr>
                             <th>Employee No.</th>
@@ -72,12 +72,12 @@
                         {
                         <tr>
                             <td>@item.EmployeeNo</td>
-                            <td><img alt="image" src="@Url.Content(item.ImageURL)" /> </td>
+                            <td><img class="rounded-circle img-thumbnail img-fluid" alt="image" src="@Url.Content(item.ImageURL)" width="45" height="38" /></td>
                             <td>@item.FullName</td>
                             <td>@item.Gender</td>
                             <td>@item.Designation</td>
                             <td>@item.City</td>
-                            <td>@item.DateJoinded</td>
+                            <td>@item.DateJoinded.ToString("dd/MM/yyyy")</td>
                             <td>
                                 <a class="text-primary" style="text-decoration:none" asp-action="Edit" asp-route-id="@item.Id">
                                     <span class="fa-stack fa-1x">
